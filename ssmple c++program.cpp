@@ -9,6 +9,7 @@ cout<<"change this file"
 cout<<"changes made in file"
 cout<<"this is third changes"
 cout<<"this is fourth update changes"
-  cout <<"fifth changes
+cout <<"fifth changes"
+cout<<"sixth changes"
 getch();
 }
